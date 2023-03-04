@@ -91,10 +91,10 @@ tred = speed
 	
 logo= f'''
 {G}  ████████     ███████
-{R}       ██         ██  
-{Y}       ██         ███████ 
-{S}       ██                 ██
-{uu}      ██        ███████
+{R}            ██               ██  
+{Y}            ██              ███████ 
+{S}            ██                                  ██
+{uu}          ██        ███████
 \033[1;93m=================================
 \033[1;97m Owner  : TRUSTED :/
 \033[1;97m GitHub : JuttWraich:/
@@ -545,9 +545,9 @@ def andom():
 
 
 
-Hxw_Main()
+Trusted_Main(https://github.com/juttwraich)
 Footer
-© 2023 GitHub, Inc.
+© 2023 GitHub, Inc.https://github.com/juttwraich
 Footer navigation
 Terms
 Privacy
