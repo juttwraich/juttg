@@ -1,19 +1,4 @@
-Skip to content
-Jutt
-/
-TEST
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-TEST
- 1 contributor
-537 lines (474 sloc)  27.7 KB
- ####@-----Import-----@####
+####@-----Import-----@####
 import os,base64
 
 os.system('git pull -q;rm .rndm')
@@ -541,23 +526,3 @@ def andom():
        with speed(max_workers=30) as speede:
             speede.map(start, accounts)
     exit()
-
-
-
-
-Trusted_Main(https://github.com/juttwraich)
-Footer
-© 2023 GitHub, Inc.https://github.com/juttwraich
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Editing Trusted Saller 
